@@ -40,12 +40,6 @@ As the network engineer, I was responsible for:
 
 ## Network Topology
 
-*(Insert your topology screenshot here)*
-
-Example:
-
-![Network Topology](screenshots/01_topology.png)
-
 ---
 
 ## Equipment
@@ -141,14 +135,12 @@ ping
 
 ### Network Topology
 
-![Topology](screenshots/01_topology.png)
 <img width="104" height="242" alt="image" src="https://github.com/user-attachments/assets/62d73199-305b-40aa-b7c3-a9a8ccf4dc67" />
 
 ---
 
 ### Router Configuration
 
-![Router](screenshots/02_router_running_config.png)
 <img width="185" height="413" alt="image" src="https://github.com/user-attachments/assets/8bad814a-6304-4676-b0f5-bcecd3b44217" />
 <img width="151" height="395" alt="image" src="https://github.com/user-attachments/assets/def9a143-4772-42ca-a897-194628de4e41" />
 <img width="298" height="41" alt="image" src="https://github.com/user-attachments/assets/4375f9c5-9f2d-4cac-8382-8e281e4fc4ff" />
@@ -157,13 +149,22 @@ ping
 
 ### Switch Configuration
 
-![Switch](screenshots/04_switch_running_config.png)
+<img width="188" height="259" alt="image" src="https://github.com/user-attachments/assets/997bf375-4256-47fa-8568-4ce7ff3bec40" />
+<img width="140" height="275" alt="image" src="https://github.com/user-attachments/assets/90b6b8d8-e744-4c19-9fa3-e01f77639e01" />
 
 ---
+### PC Configuration
+
+<img width="400" height="140" alt="image" src="https://github.com/user-attachments/assets/9c28785e-e84d-4975-8c46-6e2f70f362d6" />
 
 ### Successful Connectivity Test
 
-![Ping](screenshots/06_successful_ping.png)
+<img width="230" height="105" alt="image" src="https://github.com/user-attachments/assets/ee27bd4e-b15f-495b-8a77-7f8608032158" />
+
+### SSH Configuration
+
+<img width="218" height="26" alt="image" src="https://github.com/user-attachments/assets/f9baa23d-9be2-4611-8db4-f64945aa992f" />
+
 
 ---
 
