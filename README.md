@@ -40,6 +40,7 @@ As the network engineer, I was responsible for:
 
 ## Network Topology
 
+
 ---
 
 ## Equipment
