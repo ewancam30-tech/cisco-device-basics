@@ -149,6 +149,9 @@ ping
 ### Router Configuration
 
 ![Router](screenshots/02_router_running_config.png)
+<img width="185" height="413" alt="image" src="https://github.com/user-attachments/assets/8bad814a-6304-4676-b0f5-bcecd3b44217" />
+<img width="151" height="395" alt="image" src="https://github.com/user-attachments/assets/def9a143-4772-42ca-a897-194628de4e41" />
+<img width="298" height="41" alt="image" src="https://github.com/user-attachments/assets/4375f9c5-9f2d-4cac-8382-8e281e4fc4ff" />
 
 ---
 
